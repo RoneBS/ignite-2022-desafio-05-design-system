@@ -1,0 +1,3 @@
+{
+  "extends": "@trajetoria-dev-ui/eslint-config"
+}
